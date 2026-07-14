@@ -18,7 +18,7 @@ import os
 import paho.mqtt.client as mqtt
 import json
 
-MQTT_HOST = "192.168.1.2"
+MQTT_HOST = "192.168.1.5"
 service_uuid = 0xff00
 characteristic_uuid = 0xff02
 
